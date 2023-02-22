@@ -71,6 +71,6 @@ if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
 #Sample
-SHORTNER_SITE = ""
-SHORTNER_API = ""
+SHORTNER_SITE = "https://shrinkme.io"
+SHORTNER_API = "7300e885e4ae9235fa723a3220839cbe5ea2c095"
 
